@@ -1,0 +1,1 @@
+﻿test@test.com || Testing sent email || This should go to the email_outbox.txt file || 2022-12-19 || 14:19:54
